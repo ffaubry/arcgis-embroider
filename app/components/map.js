@@ -4,7 +4,7 @@ import config from '@arcgis/core/config';
 import Map from '@arcgis/core/Map';
 import MapView from '@arcgis/core/views/MapView';
 
-config.baseUrl = 'https://ffaubry.github.io/arcgis-embroider/';
+config.baseUrl = 'arcgis-embroider/';
 
 export default class MapComponent extends Component {
 
