@@ -14,8 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd jsapi-embroider`
+* Clone this repo
 * `yarn install`
 
 ## Running / Development
