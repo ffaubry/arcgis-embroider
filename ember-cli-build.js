@@ -14,7 +14,6 @@ module.exports = function(defaults) {
   trees.push(
     new Funnel(resolvePkg('@arcgis/core/assets'), {
       srcDir: '/esri',
-      // include: ['fonts/**.*'],
       destDir: '/assets/esri'
     })
   );
